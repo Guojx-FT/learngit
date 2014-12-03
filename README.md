@@ -1,4 +1,0 @@
-learngit
-========
-
-my first repository
